@@ -1,0 +1,308 @@
+body {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+  
+  
+  .mp h1 {
+      
+    color: black;
+    text-align: center;
+    background-color:yellow;
+    text-shadow: 2px 2px red;
+    
+  }
+  
+  .mp h2 {
+      border-style: dotted;
+      border-radius: 50px;
+      background-color: indianred;
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .mp h2:hover{
+      color:blue;
+
+  }
+  .mp ul{
+      list-style-type: none;
+      display:inline-block;
+      width: 30%;
+      
+  }
+.card1 .card__main1{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: green;
+      width:50%;
+      box-shadow: 5px 5px red;
+  }
+  .card2 .card__main2{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: red;
+      width:50%;
+      box-shadow: 5px 5px greenyellow;
+  }
+  .card3 .card__main3{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: blue;
+      width:50%;
+      box-shadow: 5px 5px pink;
+  }
+  .card4 .card__main4{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: goldenrod;
+      width:50%;
+      box-shadow: 5px 5px green;
+  }
+  .card5 .card__main5{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: pink;
+      width:50%;
+      box-shadow: 5px 5px hotpink;
+  }
+  .card6 .card__main6{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    left: 0px;
+    right:0px; 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: purple;
+      width:50%;
+      box-shadow: 5px 5px rebeccapurple;
+       
+  }
+
+   .card__kame span{
+      font-size: small;
+      font-size: bold;
+      letter-spacing: 0.1rem;
+  }
+  .card__kame span:hover{
+      background-color: darkorange;
+  }
+  .card1 .card__main1:hover{
+    
+      background-color: yellow;
+     
+  }
+  .card2 .card__main2:hover{
+    
+    background-color: paleturquoise;
+   
+}
+.card3 .card__main3:hover{
+    
+    background-color: hotpink;
+   
+}
+.card4 .card__main4:hover{
+    
+    background-color: green;
+   
+}
+
+.card5 .card__main5:hover{
+    
+    background-color: blue;
+   
+}
+.card6 .card__main6:hover{
+    
+    background-color: red;
+     
+   
+}
+.card1 {
+    transition: 0.1s ease-in-out; 
+}
+
+
+  
+
+ body {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+  
+  
+  .mp h1 {
+      
+    color: black;
+    text-align: center;
+    background-color:yellow;
+    text-shadow: 2px 2px red;
+    
+  }
+  
+  .mp h2 {
+      border-style: dotted;
+      border-radius: 50px;
+      background-color: indianred;
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .mp h2:hover{
+      color:blue;
+
+  }
+  .mp ul{
+      list-style-type: none;
+      display:inline-block;
+      width: 30%;
+      
+  }
+.card1 .card__main1{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: green;
+      width:50%;
+      box-shadow: 5px 5px red;
+  }
+  .card2 .card__main2{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: red;
+      width:50%;
+      box-shadow: 5px 5px greenyellow;
+  }
+  .card3 .card__main3{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: blue;
+      width:50%;
+      box-shadow: 5px 5px pink;
+  }
+  .card4 .card__main4{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: goldenrod;
+      width:50%;
+      box-shadow: 5px 5px green;
+  }
+  .card5 .card__main5{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    /* left: 0px;
+    right:0px; */ 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: pink;
+      width:50%;
+      box-shadow: 5px 5px hotpink;
+  }
+  .card6 .card__main6{
+    width:50%;
+    margin: 30px;
+    /* height:30px; */
+    left: 0px;
+    right:0px; 
+     border-radius: 30px;
+    padding: 30px 0px;
+      background-color: purple;
+      width:50%;
+      box-shadow: 5px 5px rebeccapurple;
+       
+  }
+
+   .card__kame span{
+      font-size: small;
+      font-size: bold;
+      letter-spacing: 0.1rem;
+  }
+  .card__kame span:hover{
+      background-color: darkorange;
+  }
+  .card1 .card__main1:hover{
+    
+      background-color: yellow;
+     
+  }
+  .card2 .card__main2:hover{
+    
+    background-color: paleturquoise;
+   
+}
+.card3 .card__main3:hover{
+    
+    background-color: hotpink;
+   
+}
+.card4 .card__main4:hover{
+    
+    background-color: green;
+   
+}
+
+.card5 .card__main5:hover{
+    
+    background-color: blue;
+   
+}
+.card6 .card__main6:hover{
+    
+    background-color: red;
+     
+   
+}
+.card1 {
+    transition: 0.1s ease-in-out; 
+}
